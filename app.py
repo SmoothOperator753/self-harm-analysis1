@@ -11,7 +11,7 @@ nltk.download('punkt')
 import snscrape
 
 # Load tokenizer and model
-with open('tokenizer_2.pickle', 'rb') as handle:
+with open('tokenizer.pickle', 'rb') as handle:
     tokenizer = pickle.load(handle)
 
 model = load_model("sentiment_model.keras")
