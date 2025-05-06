@@ -1,10 +1,7 @@
-tensorflow
-keras
-numpy 
-pandas
-scikit-learn
-nltk
-matplotlib
 streamlit
-pickle
+tensorflow
+numpy
+nltk
+tweepy
 snscrape
+scikit-learn
